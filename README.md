@@ -6,4 +6,5 @@
 
 ### 유니티 기초
 
+- [프로젝트 리소스](https://github.com/IndieGameMaker/UnityBook)
 - [SpaceShooter 프로젝트](https://github.com/IndieGameMaker/SpaceShooter_2021_K)
