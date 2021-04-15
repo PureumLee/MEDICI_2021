@@ -9,6 +9,8 @@
 - [프로젝트 리소스](https://github.com/IndieGameMaker/UnityBook)
 - [SpaceShooter 프로젝트](https://github.com/IndieGameMaker/SpaceShooter_2021_K)
 
+---
+
 ### 유니티 기초과정 개인과제
 
 - 과제 주제 : 미니 슈팅게임 만들기 
