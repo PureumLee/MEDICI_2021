@@ -9,7 +9,8 @@
 - [프로젝트 리소스](https://github.com/IndieGameMaker/UnityBook)
 - [SpaceShooter 프로젝트](https://github.com/IndieGameMaker/SpaceShooter_2021_K)
 - [Musa 프로젝트](https://github.com/IndieGameMaker/Musa2021)
-- [Flight 프로젝트](https://github.com/IndieGameMaker/Flight2021))
+- [Flight 프로젝트](https://github.com/IndieGameMaker/Flight2021)
+- [Inventory 프로젝트](https://github.com/IndieGameMaker/Inventory2021)
 ---
 
 ### Git ignore
