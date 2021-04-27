@@ -13,12 +13,11 @@
 - [Inventory 프로젝트](https://github.com/IndieGameMaker/Inventory2021)
 - [Photon TankAttack 프로젝트](https://github.com/IndieGameMaker/TankAttack2021)
 
-d2a3b7f2-de33-470d-a12d-0d4c4aa2c24f
 ---
 
 ### Git ignore
-- [Git .ignore](https://www.toptal.com/developers/gitignore/api/unity)
-- [Git .attrributes](https://gist.githubusercontent.com/nemotoo/b8a1c3a0f1225bb9231979f389fd4f3f/raw/dc3e8cab80fc62d1c60db70c761b1ffa636aa796/.gitattributes)
+- [Git .gitignore](https://www.toptal.com/developers/gitignore/api/unity)
+- [Git .gitattrributes](https://gist.githubusercontent.com/nemotoo/b8a1c3a0f1225bb9231979f389fd4f3f/raw/dc3e8cab80fc62d1c60db70c761b1ffa636aa796/.gitattributes)
 
 ### 유니티 기초과정 개인과제
 
