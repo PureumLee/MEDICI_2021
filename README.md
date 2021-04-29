@@ -13,11 +13,9 @@
 - [Inventory 프로젝트](https://github.com/IndieGameMaker/Inventory2021)
 - [Photon TankAttack 프로젝트](https://github.com/IndieGameMaker/TankAttack2021)
 
-d2a3b7f2-de33-470d-a12d-0d4c4aa2c24f
-
 ---
 
-### Git ignore
+### Git ignore 파일
 - [Git .gitignore](https://www.toptal.com/developers/gitignore/api/unity)
 - [Git .gitattrributes](https://gist.githubusercontent.com/nemotoo/b8a1c3a0f1225bb9231979f389fd4f3f/raw/dc3e8cab80fc62d1c60db70c761b1ffa636aa796/.gitattributes)
 
@@ -48,6 +46,27 @@ d2a3b7f2-de33-470d-a12d-0d4c4aa2c24f
     - 적 캐릭터 구현 : 주인공을 향해서 추적을 해야함 (내비게이션 사용)
     - 적 캐릭터의 HP 구현해 0이하이면 삭제 처리함
     - 오브젝트 풀링은 제외
+
+
+### 유니티 포톤 개인과제
+
+- 과제 주제 : 이전 제작 게임 또는 신규 게임 
+- 과제 마감 : 2021년 5월 3일 오후 6:00 까지
+- 과제 업로드 : [메디치 카페] - [2021 혁신 가산 VR/AR] - [IITP_과제/실습]
+- 사용할 리소스
+    - 에셋스토어에서 리소스 다운로드 후 사용
+    - 자체 제작 리소스도 사용가능
+
+- 반드시 포함되어야 할 사항
+    - 소스코드는 Git으로 관리 (CLI 만 사용 - GUI 툴 사용 금지)
+    - Github에 원격 리포지토리에 백업
+    - 로비 구현 생성 (유저ID, 룸생성 로직, 룸 목록(옵션사항))
+    - 로비 씬, 베틀 씬으로 구성함
+    - OnPhotonSerializeView 콜백 함수 사용
+    - RPC로 구현한 로직 하나 이상 구현
+
+
+
 
 ### Git 참조문서
 
