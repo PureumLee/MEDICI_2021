@@ -19,6 +19,8 @@
 - [Git .gitignore](https://www.toptal.com/developers/gitignore/api/unity)
 - [Git .gitattrributes](https://gist.githubusercontent.com/nemotoo/b8a1c3a0f1225bb9231979f389fd4f3f/raw/dc3e8cab80fc62d1c60db70c761b1ffa636aa796/.gitattributes)
 
+---
+
 ### 유니티 기초과정 개인과제
 
 - 과제 주제 : 미니 슈팅게임 만들기 
@@ -47,6 +49,7 @@
     - 적 캐릭터의 HP 구현해 0이하이면 삭제 처리함
     - 오브젝트 풀링은 제외
 
+---
 
 ### 유니티 포톤 개인과제
 
