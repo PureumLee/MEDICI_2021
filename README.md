@@ -12,6 +12,7 @@
 - [Flight 프로젝트](https://github.com/IndieGameMaker/Flight2021)
 - [Inventory 프로젝트](https://github.com/IndieGameMaker/Inventory2021)
 - [Photon TankAttack 프로젝트](https://github.com/IndieGameMaker/TankAttack2021)
+- [Vuforia 프로젝트](https://github.com/IndieGameMaker/VuforiaDemo2021)
 
 ---
 
