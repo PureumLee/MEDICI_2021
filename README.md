@@ -77,5 +77,8 @@
 - [Pro Git 책](http://git-scm.com/book/ko/v2)
 
 
+## ARCore 설치 패키지
 
+com.unity.multiplayer-hlapi
+com.unity.xr.legacyinputhelpers
 
